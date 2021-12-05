@@ -1,1 +1,2 @@
-##20211129
+## 20211129
+## encoder-decoder módszer
